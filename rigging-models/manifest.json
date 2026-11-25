@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "addedOn": "2026-11-02",
+  "studentNumber": 13,
+  "sourceStudentNumber": 13,
+  "status": "assets_only_not_integrated",
+  "warning": "게임 조작, 외형 변형, 충돌 및 재시작은 실제 게임에 연결한 후 확인해야 합니다.",
+  "models": [
+    {
+      "file": "hunyuan_arms_1k.glb",
+      "bytes": 3086848,
+      "sha256": "e1cf3c6e6d232a8ac00e625225fad9b1cf82299f31420a62fbeba4c67ba843e3",
+      "skins": 1,
+      "joints": 28,
+      "animations": [
+        "Cube_Pickup",
+        "Cube_Place",
+        "Idle",
+        "Jump",
+        "Portal_Fire",
+        "Run",
+        "Walk"
+      ],
+      "meshOrigin": "Hunyuan-derived; some first-person equipment may include previous supporting geometry",
+      "rigAndMotionOrigin": "Hunyuan and/or Blender supplemental rig; includes Blender-authored animation",
+      "runtimeIntegrated": false
+    }
+  ]
+}

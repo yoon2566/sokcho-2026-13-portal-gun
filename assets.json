@@ -1,0 +1,13 @@
+{
+  "hands": "assets/hands.glb",
+  "cube": "assets/cube.glb",
+  "button": "assets/button.glb",
+  "door": "assets/door.glb",
+  "room1": "assets/room1.glb",
+  "room2": "assets/room2.glb",
+  "room3": "assets/room3.glb",
+  "core": "assets/core.glb",
+  "socket": "assets/socket.glb",
+  "laser": "assets/laser.glb",
+  "rims": "assets/rims.glb"
+}
